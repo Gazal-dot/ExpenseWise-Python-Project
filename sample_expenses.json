@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Lunch",
+        "category": "Food",
+        "amount": 120.0,
+        "date": "2026-10-28"
+    },
+    {
+        "id": 2,
+        "title": "Bus pass",
+        "category": "Travel",
+        "amount": 450.0,
+        "date": "2026-10-28"
+    },
+    {
+        "id": 3,
+        "title": "Notebook",
+        "category": "Study",
+        "amount": 85.0,
+        "date": "2026-10-29"
+    }
+]
